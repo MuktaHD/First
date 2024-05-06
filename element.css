@@ -4,7 +4,7 @@
     box-sizing: border-box;
     border-style: double;
 }
-
+/* This is body part */
 
 body{
     border: 1px solid black;
